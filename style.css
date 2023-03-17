@@ -1,0 +1,22 @@
+.home
+{
+    background-image: url('images/PP.PNG');
+    background-size: auto;
+}
+
+h1, h2
+{
+    text-align: center;
+}
+
+.navbar
+{
+    background-color: black;
+}
+
+.navbar-nav
+{
+    
+    align-items: center;
+    
+}
